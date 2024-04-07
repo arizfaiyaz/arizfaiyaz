@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arizfaiyaz
-- 👀 I’m interested in ... coding, web dev
-- 🌱 I’m currently learning ... Java+dsa
+- 👋 Hi, I’m Ariz Faiyaz
+- 👀 I’m Passinate about coding, web dev
+- 🌱 I’m currently learning ... Web Dev, Java+dsa
 - 💞️ I’m looking to collaborate on ... any beginner level projects
 - 📫 How to reach me ... email:- arizfaiyazwork@gmail.com
 -                        telegram:-@ariz_nerd
