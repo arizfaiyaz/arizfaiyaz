@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ariz Faiyaz
-- 👀 I’m Passinate about coding, web dev
+- 👀 I’m Passinate about coding, web dev, DSA.
 - 🌱 I’m currently learning ... Web Dev, Java+dsa
 - 💞️ I’m looking to collaborate on ... any beginner level projects
 - 📫 How to reach me ... email:- arizfaiyazwork@gmail.com
