@@ -1,58 +1,27 @@
-<div align="center">
-  <h1>Hi 👋, I'm Ariz Faiyaz</h1>
-  <p><strong>Full Stack Developer | CSE Undergrad | Tool Builder</strong></p>
+# 💫 About Me:
+🔭 I’m currently working on: A VS Code extension that provides real-time audio feedback for coding errors and a custom "New Tab" Chrome extension with motivational features.<br><br>👯 I’m looking to collaborate on: Open-source Full Stack projects, specifically those involving React.js, Next.js, and advanced state management.<br><br>🤝 I’m looking for help with: Mastering system design patterns and optimizing PostgreSQL database performance for large-scale applications.<br><br>🌱 I’m currently learning: The "Daily Grind" of Data Structures and Algorithms (DSA) alongside advanced React hooks like useContext and useReducer.<br><br>💬 Ask me about: Building developer productivity tools, full-stack architecture, or how to survive a B.Tech CSE degree in Kolkata.<br><br>⚡ Fun fact: I published a functional tool to the VS Code Marketplace just for fun—and it actually helps me (and others) catch bugs faster through sound!
 
-  <p>
-    <a href="https://twitter.com/thatnerdwalaguy"><img src="https://img.shields.io/twitter/follow/thatnerdwalaguy?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter" /></a>
-    <a href="https://linkedin.com/in/ariz-faiyaz-920257286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </p>
-</div>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ezdoom7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariz_nerd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariz-faiyaz/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@thatnerdwalaguy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ariznerd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arizfaiyaz7@gmail.com) 
 
-### 👨‍💻 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat&logo=tRPC&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=flat&logo=gitpod&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=Puppeteer&logoSize=auto&logoColor=black) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arizfaiyaz&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=arizfaiyaz&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arizfaiyaz&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I am a passionate **Full Stack Web Developer** and Computer Science student based in India. I love bridging the gap between robust backend logic and intuitive frontend design. Currently, I'm deep-diving into **React internals** and building developer productivity tools.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arizfaiyaz&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-- 🛠️ **Current Project:** Refining a VS Code extension that adds audio feedback to the coding experience.
-- 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering.
-- 🎯 **Daily Grind:** Mastering Data Structures & Algorithms while shipping functional web apps.
-- 💬 **Ask me about:** React hooks, SQL optimization, or why I prefer Linux for development.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
-| **Tools & OS** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arizfaiyaz&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=arizfaiyaz&icon=8&color=9)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arizfaiyaz&show_icons=true&theme=tokyonight&count_private=true" alt="Ariz's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arizfaiyaz&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arizfaiyaz&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📬 Connect with me
-
-<p align="left">
-  <a href="https://www.youtube.com/c/ariznerd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://instagram.com/@pitajisinghcool"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arizfaiyaz&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
