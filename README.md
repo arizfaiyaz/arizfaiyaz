@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=arizfaiyaz&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![]<img src="https://githubvisitcounter.dipchakraborty.dev/api/profile-views?username=arizfaiyaz&label=Profile+views&color=098bdc&style=for-the-badge&mode=unique&ttl=21600" alt="arizfaiyaz profile views" />
+<img src="https://githubvisitcounter.dipchakraborty.dev/api/profile-views?username=arizfaiyaz&label=Profile+views&color=098bdc&style=for-the-badge&mode=unique&ttl=21600" alt="arizfaiyaz profile views" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
