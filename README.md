@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=arizfaiyaz&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=arizfaiyaz&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arizfaiyaz&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arizfaiyaz&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+<img src="https://githubvisitcounter.dipchakraborty.dev/api/profile-views?username=arizfaiyaz&label=Profile+views&color=098bdc&style=for-the-badge&mode=unique&ttl=21600" alt="arizfaiyaz profile views" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arizfaiyaz&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
